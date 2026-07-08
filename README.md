@@ -1,10 +1,8 @@
-# Pi7 PDF Tool Clone
+# PDF Liquid Glass
 
 A fully client-side PDF toolkit with a liquid glass UI. **Everything runs in your browser** — no files are ever uploaded to any server.
 
-Inspired by [Pi7 PDF Tool](https://pdf.pi7.org), rebuilt from scratch as a single `index.html` with zero build steps and zero server dependencies.
-
-Live Demo: [https://pavnxet.github.io/Pi7-PDF-Tool-Clone/](https://pavnxet.github.io/Pi7-PDF-Tool-Clone/)
+Live Demo: [https://pavnxet.github.io/PDF-Liquid-Glass/](https://pavnxet.github.io/PDF-Liquid-Glass/)
 
 ---
 
@@ -31,13 +29,12 @@ Live Demo: [https://pavnxet.github.io/Pi7-PDF-Tool-Clone/](https://pavnxet.githu
 - Configurable text, opacity, and font size.
 - Live preview updates as you adjust settings.
 
-### Clear Links (ClearLink)
+### Clear Links
 - Remove link annotations from PDFs.
 - Optionally remove all annotations.
 - Scrub metadata (title, author, subject, keywords, producer, creator).
 - Remove bookmarks/outlines.
 - Batch process multiple files.
-- Modeled after [ClearLink-PDF](https://pavnxet.github.io/ClearLink-PDF/).
 
 ---
 
